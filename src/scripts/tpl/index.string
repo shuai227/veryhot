@@ -1,0 +1,113 @@
+<div class="my-index">
+	<header>
+		<ul>
+			<li>
+				<i class="yo-ico">&#x3557;</i>
+				<b>分类</b>
+			</li>
+			<li>
+				<div class="sech">
+					<i class="yo-ico">&#xe635;</i>
+				    <b>搜索您店铺需要的菜品或调味品</b>
+				</div>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe720;</i>
+				<b>消息</b>
+			</li>
+		</ul>
+	</header>
+	<section id="index-scroll" spa-widget="scroll">
+	<div id="">
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+		        <div class="swiper-slide">
+		        	<img src="/veryhot/images/a.png"/></div>
+		        <!--<div class="swiper-slide">
+		        	<img src="/veryhot/images/b.png"/></div>
+		        <div class="swiper-slide">
+		        	<img src="/veryhot/images/c.png"/></div>-->
+    		</div>
+		</div>
+		<nav>
+			<ul>
+				<li>
+					<i><img src="/veryhot/images/caipu2x.png"/></i>
+					<b>智能菜谱</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/jifen2x.png"/></i>
+					<b>商品分类</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/qiandao2x.png"/></i>
+					<b>餐调分类</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/dashi2x.png"/></i>
+					<b>应用咨询</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/jifen2x.png"/></i>
+					<b>积分商城</b>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<i><img src="/veryhot/images/qiandao2x.png"/></i>
+					<b>签到领币</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/kaquan2x.png"/></i>
+					<b>卡券中心</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/fenxiang2x.png"/></i>
+					<b>分享有礼</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/zhixiao2x.png"/></i>
+					<b>直销中心</b>
+				</li>
+				<li>
+					<i><img src="/veryhot/images/quanbu2x.png"/></i>
+					<b>全部</b>
+				</li>
+			</ul>
+		</nav>
+		<div class="youhuo">
+			<img src="/veryhot/images/youhuo.png"/>
+		</div>
+		<div class="zhuce">
+			<img src="/veryhot/images/zhuce.png"/>
+		</div>
+		<div class="dashifu">
+			<img src="/veryhot/images/dashifu.png"/>
+		</div>
+	</div>
+	</section>
+	<footer>
+		<ul>
+			<li>
+				<i class="yo-ico">&#xe608;</i>
+				<b>首页</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe607;</i>
+				<b>分类</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe6f8;</i>
+				<b>发现</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe661;</i>
+				<b>购物车</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe60a;</i>
+				<b>我的</b>
+			</li>
+		</ul>
+	</footer>
+</div>
